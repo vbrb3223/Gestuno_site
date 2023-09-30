@@ -26,7 +26,7 @@ body {
 }
 
 .logo__image {
-	width: 6.944vh;
+	width: 6vh;
 }
 
 .content_container {
@@ -137,7 +137,6 @@ body {
 .main_info__image {
 	width: 92.593vh;
 	margin-right: -9.259vh;
-
 	pointer-events: none;
 }
 
